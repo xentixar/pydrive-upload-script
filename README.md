@@ -15,8 +15,8 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/xentixar/pydrive-upload-script.git
+   cd pydrive-upload-script
 
 2. Install the required Python packages:
 
